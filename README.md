@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** Gabi Montes De Oca
 
-**Due date:** _\<date\>_
+**Due date:** February 16 2016
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+Completed excercises 1.3, 1.6, and 1.9 from the text book
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to code for an equation using variables integers as well as floating point decimals.
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Gabi Montes De Oca
